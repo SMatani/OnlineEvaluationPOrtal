@@ -3,5 +3,5 @@
 </head>
 
 <div class=logoutbutton>
-<a href="../INFO.php"><b>Logout</b></a> 
+<a href="../Homepage.php"><b>Logout</b></a> 
 </div>     
