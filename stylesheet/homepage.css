@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+
+.column1 {
+    float: left;
+    width: 47%;
+    padding: 20px;
+    height: 90%; /* Should be removed. Only for demonstration */
+    background-color: rgb(5, 22, 78);
+    text-align: left;
+    color:#eea5a5;
+  }
+
+  .column2 {
+    float: right;
+    width: 47%;
+    padding: 20px;
+    height: 90%; /* Should be removed. Only for demonstration */
+    background-color: rgb(92, 116, 163);
+    text-align: center;
+  }
+
+  .loginform{
+    float: left;
+    width: 47%;
+    padding: 20px;
+    height: 90%; /* Should be removed. Only for demonstration */
+    background-color: rgb(5, 22, 78);
+    text-align: left;
+    color:#eea5a5;
+  }
+
+  .wholepage{
+	  margin-top: 10%;
+	  background-color: darkblue;
+	  color:white;
+	  text-align: center;
+  }
+
+  .logoutbutton{
+	  float:right;
+  }
+
+  a {
+	color: black;
+  }
+
+.testform{
+	background-color:  rgb(92, 116, 163);
+}
+
+textarea{
+	height: 30px;
+	width: 700px;
+}
+
+.button{
+   background-color: rgb(10, 92, 37);
+   color: white;
+   width: 120px;
+   height: 40px;
+   align-items: center;
+}
+
+.testquestions{
+	background-color: wheat;
+}
+
