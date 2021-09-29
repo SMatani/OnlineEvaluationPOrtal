@@ -31,7 +31,7 @@ USE online_eval;
 -- Table structure for table `trainee_credentials`
 --
 
-CREATE TABLE `redentials` (
+CREATE TABLE `trainee_credentials` (
   `ID` int(11) NOT NULL,
   `USERNAME` varchar(40) DEFAULT NULL,
   `PASSWORD` varchar(40) DEFAULT NULL
